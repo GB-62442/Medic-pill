@@ -1,0 +1,10 @@
+RA Aplicaciones Web Para I4.0
+
+Elaborar una aplicación para cualquier caso práctico que integre:
+
+- Uso de base de datos (MySQL, MongoDB, Firestore u otro)
+- Autentificación / manejo de sesiones
+- Servicios Web o Integración con Firebase
+- Gráficas
+- Autentificación con API de terceros: Google
+- API Google Maps: Visualización geodatos
